@@ -1,24 +1,26 @@
-## Student Name (or name you would preferred to be called)
+## Josiah Jackson
 
 ### Spring 2023
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Database 1
 
-- Course 2
+- Introduction to Data Science
 
-- Course 3
+- Cloud Infrastructure (AWS)
 
-- Course 4
+- Object Oriented Programming
+
+- Operations Research
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- My dogs
 
-- Thing 2
+- Video Games
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
 
