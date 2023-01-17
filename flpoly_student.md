@@ -22,7 +22,7 @@ I am _passionate about_:
 
 - Video Games
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Reading
 
 ***
 
